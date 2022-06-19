@@ -1,0 +1,166 @@
+Ergebnis: nGrams hat schlechtere Performance als normale Polarity
+
+
+Satz 1:brock alumnus and assistant referee joe fletcher preparing for his most high-profile gig on the pitch
+Normale Polarity: 0.5
+nGram Polarity: 0.10714285714285714
+
+Satz 2:brazil is a cupboard &amp; will not win wc2014. england which has been denied referees, linesmen,fifa &amp; platini will win this time
+Normale Polarity: 0.2
+nGram Polarity: 0.12000000000000002
+
+Satz 3:these smartwatches will help referees make better calls:
+Normale Polarity: 0.5
+nGram Polarity: 0.16666666666666666
+
+Satz 4:use of technology in world cup will bring new dimension, u just can't get away with it even if it's missed by referee
+Normale Polarity: 0.13636363636363635
+nGram Polarity: 0.01948051948051948
+
+Satz 5:already a better refereeing performance than any given by andre marriner
+Normale Polarity: 0.5
+nGram Polarity: 0.16666666666666666
+
+Satz 6:be sure to cheer on our lone canadian at the , ar joe fletcher, who will be in action for v on june .
+Normale Polarity: 0.3
+nGram Polarity: 0.059090909090909104
+
+Satz 7:where is that referee? please show these three some red cards... okay they stopped.
+Normale Polarity: 0.25
+nGram Polarity: 0.10416666666666667
+
+Satz 8:vanishing spray for the referees. expect more thumping goals!
+Normale Polarity: 0.625
+nGram Polarity: 0.23214285714285715
+
+Satz 9:when life needs refereeing: just in time for the first match! cc:
+Normale Polarity: 0.3125
+nGram Polarity: 0.0875
+
+Satz 10:great day tesco bank football festival. inverclyde refereeing
+Normale Polarity: 0.8
+nGram Polarity: 0.13333333333333333
+
+Satz 11:: mexico are doing good against brazil... i'm just waiting the referee to give brazil a penalty out of nowhere
+Normale Polarity: 0.7
+nGram Polarity: 0.11666666666666664
+
+Satz 12:so, how is the referee going to win this match for brazil?
+Normale Polarity: 0.8
+nGram Polarity: 0.24000000000000005
+
+Satz 13:ernst stavro blatter is stroking his cat and about to communicate directly with the referee - "brazil must win - see to it"
+Normale Polarity: 0.45
+nGram Polarity: 0.1285714285714286
+
+Satz 14:lmaooooo did the referee just do that 'keep blabbing' hand sign to a mexican player? lol! that's funny
+Normale Polarity: 0.4166666666666667
+nGram Polarity: 0.1328125
+
+Satz 15:whats up brazil ur not so tough when theres a good referee
+Normale Polarity: 0.15555555555555553
+nGram Polarity: 0.023333333333333317
+
+Satz 16:good referee tonight. too good to get any more brazil matches. he's going to get the wrong result.
+Normale Polarity: 0.35
+nGram Polarity: 0.20625
+
+Satz 17:before the tournament i thought brazil would have a serious chance of winning w/o referees. changed my mind. help is a must.
+Normale Polarity: 0.08333333333333334
+nGram Polarity: 0.025
+
+Satz 18:when a referee sprays the white line for a free kick, does he say 'let us spray' ?
+Normale Polarity: 0.2
+nGram Polarity: 0.07500000000000001
+
+Satz 19:this referee should call the finals. so good! no fuzz!
+Normale Polarity: 1.0
+nGram Polarity: 0.34375
+
+Satz 20:now that mexico playing better than brazil the referee going on their favor smh
+Normale Polarity: 0.5
+nGram Polarity: 0.125
+
+Satz 21:no japanese referee to help you even if you win, its not convincing, you're rubbish.
+Normale Polarity: 0.18333333333333335
+nGram Polarity: 0.18461538461538465
+
+Satz 22:joel aguilar of will referee v . he already refereed v at the maracan (source: )
+Normale Polarity: 0.5
+nGram Polarity: 0.03571428571428571
+
+Satz 23:congratulations referee. finally a decent referee in a brazil match.
+Normale Polarity: 0.16666666666666666
+nGram Polarity: 0.0625
+
+Satz 24:nice to see this referee isn't bowing to the pressure of the brazil fans
+Normale Polarity: 0.6
+nGram Polarity: 0.049999999999999996
+
+Satz 25:brazil don't look so good without referees
+Normale Polarity: 0.7
+nGram Polarity: 0.41999999999999993
+
+Satz 26:is this ref fucking blind??? or did the referee come good and give everything in brazil's favour.
+Normale Polarity: 0.09999999999999998
+nGram Polarity: -1.4802973661668754e-17
+
+Satz 27:this referee is by far the best one at this
+Normale Polarity: 0.55
+nGram Polarity: 0.34375
+
+Satz 28:no cheap calls for brazil. good decision by the referee
+Normale Polarity: 0.24999999999999997
+nGram Polarity: 0.2875
+
+Satz 29:what a great referee, solid, no fuss and deserves plaudits. brazil trying the same trick as against croatia
+Normale Polarity: 0.26666666666666666
+nGram Polarity: 0.125
+
+Satz 30:cuneyt cakir is the best referee this ever seen !
+Normale Polarity: 1.0
+nGram Polarity: 0.375
+
+Satz 31:brazil fans asking for a penalty lol sorry this isn't that japanese referee
+Normale Polarity: 0.10000000000000002
+nGram Polarity: 0.05454545454545456
+
+Satz 32:so justice has just been done for today lol, the referee missed a sure shot penalty!
+Normale Polarity: 0.7125
+nGram Polarity: 0.28750000000000003
+
+Satz 33:brazil what happened!?!!?! can't win without the help of the referee!!!
+Normale Polarity: 1.0
+nGram Polarity: 0.2666666666666667
+
+Satz 34:threw himself to the ground expecting a penalty. well done to the referee for not giving it, would have been the easy thing to do in brazil
+Normale Polarity: 0.43333333333333335
+nGram Polarity: 0.052000000000000005
+
+Satz 35:yes, but brazil played without their main player, the referee
+Normale Polarity: 0.16666666666666666
+nGram Polarity: 0.0625
+
+Satz 36:full time: bra - mex . ' +4 the referee blows the final whistle.
+Normale Polarity: 0.175
+nGram Polarity: 0.029166666666666664
+
+Satz 37:brazil didn't score at all? i guess the referees did a good job today
+Normale Polarity: 0.7
+nGram Polarity: 0.17499999999999996
+
+Satz 38:good job, mexico! brazil is overrated! if it wasn't for a crooked referee they would've lost to croatia.
+Normale Polarity: 0.5
+nGram Polarity: 0.0546875
+
+Satz 39:great game by mexico, brazil, and the referees.
+Normale Polarity: 0.2
+nGram Polarity: -0.03333333333333333
+
+Satz 40:strong refereeing. no penalty.
+Normale Polarity: 0.4333333333333333
+nGram Polarity: 0.21666666666666665
+
+Satz 41:there's no way this brazil side will get to the final, unless the referees get them there. nothing special.
+Normale Polarity: 0.17857142857142858
+nGram Polarity: 0.02100840336134454

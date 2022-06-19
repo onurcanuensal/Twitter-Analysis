@@ -1,0 +1,117 @@
+Ergebnis: nGrams performt schlechter als normale Polarity
+
+Satz 1:dutchman bjrn kuipers will referee england-italy on saturday. close down that facebook profile now, bjorn
+Normale Polarity: -0.15555555555555559
+nGram Polarity: -0.03589743589743591
+
+Satz 2:the black stars have began their activities in brazil with a lecture from fifa's referee department this morning.
+Normale Polarity: -0.16666666666666666
+nGram Polarity: -0.020833333333333332
+
+Satz 3:and here is the referee crew for the opening match between croatia &amp; brazil. it's already gettin' weird.
+Normale Polarity: -0.5
+nGram Polarity: -0.03125
+
+Satz 4:some stupid referee just red carded all the dancers. this is why i hate football.
+Normale Polarity: -0.5333333333333333
+nGram Polarity: -0.24615384615384617
+
+Satz 5:pinches referees they don't say shit to brazil butane a big deal about mexico valen verga
+Normale Polarity: -0.1
+nGram Polarity: -0.042857142857142864
+
+Satz 6:this referee is dreadful. he hasn't given brazil a soft penalty or sent a mexican off for breathing. fifa will not be happy bunnies.
+Normale Polarity: -0.024999999999999994
+nGram Polarity: -0.04999999999999998
+
+Satz 7:the referees can make a a few quid after the world cup by selling their shaving foam to claire balding
+Normale Polarity: -0.2
+nGram Polarity: -0.03333333333333334
+
+Satz 8:this referee's fucking stupid how much do i bet you they just dragged him out of the streets of brazil
+Normale Polarity: -0.29999999999999993
+nGram Polarity: -0.11666666666666663
+
+Satz 9:where does fifa get these piece of shit referees !!!
+Normale Polarity: -0.390625
+nGram Polarity: -0.098828125
+
+Satz 10:i swear every world cup the referees hate on brazil !
+Normale Polarity: -1.0
+nGram Polarity: -0.2666666666666667
+
+Satz 11:seeing as the referee didn't give that can everybody shut the fuck up about how a brazil penalty was inevitable
+Normale Polarity: -0.2
+nGram Polarity: -0.06666666666666668
+
+Satz 12:well done referee. wasn't fooled like the previous ref in the brazil game.
+Normale Polarity: -0.2833333333333333
+nGram Polarity: -0.08181818181818182
+
+Satz 13:brazil get away with poor refereeing. awful team.
+Normale Polarity: -0.7
+nGram Polarity: -0.4166666666666667
+
+Satz 14:oh? no pk awarded to brazil? looks like that referee might go missing tonight.
+Normale Polarity: -0.2
+nGram Polarity: -0.03333333333333333
+
+Satz 15:someone in the fifa offices currently writing out a check for the referee to award a late penalty. oh, never mind, they don't do that.
+Normale Polarity: -0.15
+nGram Polarity: -0.03913043478260869
+
+Satz 16:croatia fans wishing this referee had officiated their game with brazil.
+Normale Polarity: -0.4
+nGram Polarity: -0.13333333333333336
+
+Satz 17:we think that referees have crazy after-parties. retweet to be a ref's +1. byo !
+Normale Polarity: -0.75
+nGram Polarity: -0.13846153846153844
+
+Satz 18:why the surprise at how poor brazil are, croatia were better team in first game only for an incompetent referee!!
+Normale Polarity: -0.09947916666666667
+nGram Polarity: -0.0373263888888889
+
+Satz 19:hehehe you're not nice. ": ": ' t silva is booked by the referee."&lt; who else could have booked him tho'"
+Normale Polarity: -0.3
+nGram Polarity: 0.0
+
+Satz 20:no more japanese referee. brazil as fake as arsenal.
+Normale Polarity: -0.25
+nGram Polarity: -0.19642857142857142
+
+Satz 21:brazil have been very poor. they only just got through their first game through dodgy referee decisions, too.
+Normale Polarity: -0.1675
+nGram Polarity: -0.08374999999999999
+
+Satz 22:yes, that's what happens when referees don't favor brazil.they are just an average team
+Normale Polarity: -0.15
+nGram Polarity: -0.024999999999999998
+
+Satz 23:hahahart : no more japanese referee. brazil as fake as arsenal.
+Normale Polarity: -0.25
+nGram Polarity: -0.18055555555555555
+
+Satz 24:seriously though, i wanna know, how much does it cost to pay off a referee, brazil?
+Normale Polarity: -0.06666666666666665
+nGram Polarity: 0.019047619047619053
+
+Satz 25:even more reasons why croatia will feel undone by poor refereeing in their st game with brazil...
+Normale Polarity: -0.10000000000000002
+nGram Polarity: -0.09333333333333332
+
+Satz 26:: no referee no win for brazil chale. brazil shaa
+Normale Polarity: -0.4
+nGram Polarity: 0.0
+
+Satz 27:david cameron calls for crackdown on "bad behaviour" in football after devon referee attack
+Normale Polarity: -0.6999999999999998
+nGram Polarity: -0.17499999999999996
+
+Satz 28:watching brazil and mexico play is like seeing ketchup and mustard on the field. and then you have the referee in green, looking like relish
+Normale Polarity: -0.2
+nGram Polarity: -0.026086956521739136
+
+Satz 29:fuck that referee!!
+Normale Polarity: -0.625
+nGram Polarity: -0.625

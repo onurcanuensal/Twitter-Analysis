@@ -1,0 +1,135 @@
+Satz 1:dutch referee bjorn kuipers has been appointed for in manaus -
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 2:dutch referee bjorn kuipers has been appointed for in manaus get your schedule here -
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 3:referees: japan's yuichi nishimura will referee the opening match of the .
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 4:these stars and referees . take your selfie and join the campaign! -
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 5:england and italy in manaus will be refereed by bjorn kuipers of the netherlands
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 6:a former brock university graduate is an assistant referee for the .
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 7:england v italy referee is champions league final official bjrn kuipers
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 8:profile of pacifist referee nishimura who takes charge of brazil v croatia:
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 9:they couldn't get a boy referee with a proper line up?
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 10:i can't even see any goals or nets or a referee
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 11:some players will ask referees to put the wall marker spray for hair
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 12:the opening match of the last brazil world cup was refereed by a man born in the th century.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 13:former n.j. teacher mark geiger gets referee assignment
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 14:at - ref: y.nishimura (jpn); ar1: t.sagara (jpn); ar2: t.nagi (jpn); th:a.faghani (irn).
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 15:.smartwatches will help referees
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 16:highlight of the opening ceremony: referee showing red card to all the vegetables and sending them off.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 17:hi, i'm lawyer of the brazil - mexico match's referee cuneyt cakir. you've insulted my client. i'm going to sue.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 18:brazil struggling here, must be time for the referee to intervene.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 19:hahaha..referee, please help brazil score.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 20:the refereeing in this is a joke.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 21:the referee's in this are inconsistent.thiago should have received his marching orders
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 22:uruguay-england referee's neutrality not considered - fifa
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 23:cup medal given to mervyn griffiths, referee at the world cup, brazil - germany won!
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 24:thankfully the turkish referee didn't fall for the same that the japanese one did in brazil v croatia.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 25:well done referee. should have booked marcello too.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 26:rt : brazil denied a penalty. god bless the referee. although there was contact, marcello did exaggerate his fall
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 27:cheating again brazil. thank god the referee has some bollocks this time!
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 28:brazil would've struggled vs croatia too had it not been for flimsy refereeing.
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 29:brazil has been exposed. even with a th player for brazil being the referee
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 30:are looking for members! are you a player, referee or coach &amp; want to make a difference in youth football? then get in touch!
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 31:brazil -0 mexico, the referee didn't help the home nation and the mexican goalkeep hero of the match
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 32:you can't buy every referee now can you, brazil?
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 33:rt referees: japan's yuichi nishimura will referee the opening match of the .
+Normale Polarity: 0.0
+nGram Polarity: 0.0
+
+Satz 34:no favour from the referee tonight. yeye brazil
+Normale Polarity: 0.0
+nGram Polarity: 0.0
